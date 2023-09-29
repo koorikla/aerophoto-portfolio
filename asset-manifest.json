@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aerophoto-portfolio/static/css/main.d7416ce1.css",
+    "main.js": "/aerophoto-portfolio/static/js/main.68d2dd33.js",
+    "static/js/787.3cd17412.chunk.js": "/aerophoto-portfolio/static/js/787.3cd17412.chunk.js",
+    "index.html": "/aerophoto-portfolio/index.html",
+    "main.d7416ce1.css.map": "/aerophoto-portfolio/static/css/main.d7416ce1.css.map",
+    "main.68d2dd33.js.map": "/aerophoto-portfolio/static/js/main.68d2dd33.js.map",
+    "787.3cd17412.chunk.js.map": "/aerophoto-portfolio/static/js/787.3cd17412.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7416ce1.css",
+    "static/js/main.68d2dd33.js"
+  ]
+}
