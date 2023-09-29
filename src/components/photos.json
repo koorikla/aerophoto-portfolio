@@ -1,0 +1,7 @@
+{
+    "images": [
+        { "url": "/images/photo1.png", "comment": "A beautiful sunrise.", "is360": false},
+        { "url": "/images/photo2.jpg", "comment": "A serene landscape.", "is360": true},
+        { "url": "/images/photo3.jpg", "comment": "A bustling cityscape.", "is360": true}
+    ]
+}
