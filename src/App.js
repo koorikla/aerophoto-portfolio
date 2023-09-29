@@ -6,8 +6,7 @@ import PhotoGallery from './components/PhotoGallery';
 import VideoGallery from './components/VideoGallery';
 import Home from './components/Home';
 import { photos, videos } from './components/data';  // Ensure the path to data.js is correct
-
-import Test from './components/Test';
+import About from './components/About';
 
 function App() {
   return (
@@ -23,6 +22,10 @@ function App() {
               <li className="nav-item">
                 <Link className="nav-link" to="/videos">Videos</Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/about">About</Link>
+              </li>
+
             </ul>
           </div>
         </nav>
@@ -30,7 +33,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/photos" element={<PhotoGallery photos={photos} />} />
           <Route path="/videos" element={<VideoGallery videos={videos} />} />
-          <Route path="/test" element={<Test />} />
+          <Route path="/about" element={<About />} />
         </Routes>
       </div>
     </Router>

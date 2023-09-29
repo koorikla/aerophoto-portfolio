@@ -2,7 +2,7 @@ import React from 'react';
 import PanoramaViewer from './PanoramaViewer';
 
 function App() {
-  const image = "/images/photo4.jpg";
+  const image = "/images/photo3.jpg";
   
   return (
     <div className="App">
